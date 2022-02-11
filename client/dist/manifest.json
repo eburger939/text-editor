@@ -31,7 +31,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Text edit",
+  "name": "Text editor",
   "short_name": "Jate",
   "orientation": "portrait",
   "display": "standalone",
