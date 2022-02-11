@@ -23,7 +23,7 @@ module.exports = () => {
         title: ' List'
       }),
 
-      new GenerateSW(),
+      // new GenerateSW(),
       new WebpackPwaManifest({
         name: 'Text',
         short_name: 'Text',
