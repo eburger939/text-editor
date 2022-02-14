@@ -14,4 +14,4 @@
 * https://github.com/eburger939/text-editor
 
 ## Link to heroku
-
+https://text-editor-jate2.herokuapp.com/
